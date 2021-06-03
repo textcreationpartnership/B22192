@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments letter to the king of France wherein they declare their resolution and desires to his sacred Majesty assented to by both Houses, September 29 : also a true relation of a battle fought by the L. Strange and the inhabirants [sic] of Manchester September 29 : together with the proceedings of the Lord Fairfaxe and M. Hotham against the Earl of Cumberland and the rest of the cavaleers in the northerne parts with the manner of the Lord Fairfax joyning with Mr. Hotham.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22192</idno><idno type="EEBO-CITATION">12273097</idno>
+  <idno type="VID">197708</idno>
+  <idno type="EEBO-PROQUEST">2248572302</idno>
+  
+            <idno type="STC">Wing E2140</idno>
+            <idno type="OCLC">12273097</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22192)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197708)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 247:E119, no 17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments letter to the king of France wherein they declare their resolution and desires to his sacred Majesty assented to by both Houses, September 29 : also a true relation of a battle fought by the L. Strange and the inhabirants [sic] of Manchester September 29 : together with the proceedings of the Lord Fairfaxe and M. Hotham against the Earl of Cumberland and the rest of the cavaleers in the northerne parts with the manner of the Lord Fairfax joyning with Mr. Hotham.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Seymour,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>October 1, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An unofficial account of proceedings in Parliament.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cumberland, Henry Clifford, --  Earl of, 1591-1643.</term>
+               <term type="personal_name">Derby, James Stanley, --  Earl of, 1607-1651.</term>
+               <term type="personal_name">Fairfax, Ferdinando Fairfax, --  Baron, 1584-1648.</term>
+               <term type="personal_name">Hotham, John, d. 1645 Jan. 1.</term>
+               <term type="personal_name">Hotham, John, --  Sir, d. 1645 Jan. 2.</term>
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Manchester (England) --  History, Military.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197708:1"/>
+            <p>The Parliaments LETTER To the King of FRANCE Wherein they Declare their Resolution and Desires to his sacred Majesty, assented to by both Houses, September 29.</p>
+            <p>Also a true Relation of a battle fought by the L. <hi>Strange,</hi> and the Inhabirants of <hi>Manchester, September</hi> 29.</p>
+            <p>Together with the Proceedings of the Lord Fair<g ref="char:EOLhyphen"/>faxe, and M. <hi>Hotham,</hi> against the Earl of <hi>Cumberland</hi> and the rest of the Cavaleers in the Northerne parts, with the manner of the Lord <hi>Fairfax</hi> joyning with Mr. <hi>Hotham.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for Henry Seymour, October 1. 1642.</p>
+            <pb facs="tcp:197708:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197708:2"/>
+            <head>
+               <hi>An exact and perfect</hi> RELATION OF A great battle fought by the Inhabitants of Manchester against the Lord Strange who came to plunder the said Towne.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He town of <hi>Manchester</hi> hath oftentimes bin opposed by the malignant Party and their Adherents, yet still hath defended them selves with much courage and magnani<g ref="char:EOLhyphen"/>mity, insomuch that they have oftentimes bin masters of the field, and have had the day of tryumph over their Enemies and Adversaries.</p>
+            <pb facs="tcp:197708:3"/>
+            <p> But the Lord <hi>Strange</hi> whose hopes have oftentimes bin frustrated, took a se<g ref="char:EOLhyphen"/>cond Resolution, and prepared himself to march against <hi>Manchester,</hi> with an intent to pillage the same, and to disarme all those that stood well-affected to <hi>King and Parliament.</hi>
+            </p>
+            <p>The said Lord <hi>Strange</hi> hath ever since his last attempt against <hi>Manchester,</hi> dayly endeavoured to raise a great power and strength, to assist His Majesty against the <hi>Parliament,</hi> and to put in execution his designs against the Inhabitants of the said Town, and having prepared and raised a great number, he marched towards <hi>Man<g ref="char:EOLhyphen"/>chester</hi> with two and twenty hundred Horse and Foot, most of them being Pa<g ref="char:EOLhyphen"/>pists, their minds thirsting after bloud; but the <hi>Inhabitants of Manchester</hi> having information of their comming, immedi<g ref="char:EOLhyphen"/>ately resolved to put themselves in a po<g ref="char:EOLhyphen"/>sture of Warre, and every man to stand upon his own guard, but before they had fortified the Bridge, the Lord <hi>Strange</hi> ap<g ref="char:EOLhyphen"/>peared with his Forces, and at his com<g ref="char:EOLhyphen"/>ming
+<pb facs="tcp:197708:3"/> thither, he demanded entrance, but ti was denyed him.</p>
+            <p>Wherupon he commanded his soul<g ref="char:EOLhyphen"/>diers to charge against the men of <hi>Man<g ref="char:EOLhyphen"/>chester,</hi> and drew out divers troops, placing them against severall parts of the walls, insomuch that the City was invironed round with the Cavaleers, making many shots against them.</p>
+            <p>But neverthelesse, such was the cou<g ref="char:EOLhyphen"/>rage of the unndanted spirits that were within the town, that they resolved to sight it out to the last man, and for the space of 4. or 5. hours, the fight continued very furious, till the noble Lord <hi>Fairfaxe</hi> and <hi>M. Hotham,</hi> Son to that worthy <hi>cham<g ref="char:EOLhyphen"/>pion</hi> Sir <hi>John Hotham, Governour of Hull,</hi> drew up their power and strength, and came with all speed towards <hi>Manchester,</hi> to assist the Inhabitants thereof against the Cavaleers.</p>
+            <p>But so soon as the Malignant Party had information that the Lord <hi>Fairfaxe</hi> and Mr. <hi>Hotham</hi> were comming they present<g ref="char:EOLhyphen"/>ly betook themselves to flight, not daring
+<pb facs="tcp:197708:4"/> to give battle against them. Thus was the Lord <hi>Strange</hi> with all his Cavaleers quite frustrated of their hopes, and beaten from the Town of <hi>Manchester.</hi>
+            </p>
+            <p>The greatest part of the Gentry and Commonalty of <hi>Yorke</hi> now begins to pluck up their spirits, and make head a<g ref="char:EOLhyphen"/>gainst the <hi>Parliament</hi> Foes, having of late received many men and arms from Sir <hi>John Hotham,</hi> whose Son commands them, and their Army dayly encreaseth, the Lord <hi>Fairfaxe</hi> being Generall over them.</p>
+            <p>They have won many victories, having taken divers strong holds for the service of the <hi>Parliament,</hi> which the Malignant Party had possession of, and they are also resolved to ceize upon all the Parliaments enemies in that County, wherupon Sir <hi>William Savile</hi> and many other Malig<g ref="char:EOLhyphen"/>nants are fled to <hi>Pomfret</hi> Castle for Re<g ref="char:EOLhyphen"/>fuge.</p>
+            <p>But the Lord <hi>Fairfaxe</hi> is resolved to make chase after them, and to besiege the said Castle, there being great store of arms and Ammunition therin.</p>
+            <pb facs="tcp:197708:4"/>
+            <p> The Honourable Court of <hi>Parliament,</hi> having taken into serious consideration these particulars, and being desirous to discharge their duty to His Majesty and the Kingdome, to preserve the peace ther<g ref="char:EOLhyphen"/>of, and to prevent the miseries of Civill Warre amongst His Majesties loving sub<g ref="char:EOLhyphen"/>jects, yet notwithstanding they hold them selves bound to use all the means and power, which by the Laws and Goustitu<g ref="char:EOLhyphen"/>tions of this Kingdome they are trusted with, for defence and protection thereof, and of the Subjects from force and vio<g ref="char:EOLhyphen"/>lence.</p>
+            <p>And to discharge their duties towards God, His Majesty, and the Kingdome, they do in these ensuing Propositions Declare their humble Desires.
+<list>
+                  <item>1. That his Maiesty would be pleased to withdraw his forces.</item>
+                  <item>2. That he would be pleased to recall the Commissions of Array.</item>
+                  <item>And lastly, that he would be pleased to withdraw his Person from those wicked Per<g ref="char:EOLhyphen"/>sons whom he is now invironed with.</item>
+               </list>
+            </p>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1+ pages missing〉</desc>
+            </gap>
+            <pb facs="tcp:197708:5"/>
+            <p> The Parliament having intelligence that the Ammunition that were sent to Ireland for the Re<g ref="char:EOLhyphen"/>lief of the distressed Protestants, was taken by a French man of Warre, therfore after some debate thereof, it was resolved and concluded on by both houses, That a Letter should bee forthwith drawne up and sent to the King, which was to this effect, as followeth.</p>
+            <p>That His Majesty would be pleased to make re<g ref="char:EOLhyphen"/>stitution for such Arms, Powder, and Match, which was lately taken going out of Holland to Ireland by a French man of warre, which was done accor<g ref="char:EOLhyphen"/>dingly.</p>
+            <p>Sir John Hothams Son sallyed out of the Town of Hull with two Troops of Horse and 500 Foot, and joyned his Forces with the L. Fairfaxe, with an intent to cleer that County of the Cavaleers, which Letter was read at a Conference by the E. of Hol<g ref="char:EOLhyphen"/>land.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
